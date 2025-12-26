@@ -1,0 +1,24 @@
+fastapi>=0.110.0
+uvicorn>=0.23.0
+torch>=2.1.0
+torchvision>=0.16.0
+Pillow>=10.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+Pillow==9.5.0  # See https://github.com/tensorflow/models/issues/11040
+albumentations
+huggingface-hub
+loguru
+numpy
+onnxruntime
+opencv-python
+scikit-learn
+tensorboard
+timm
+torch
+tqdm
+wikipedia
+httpx
+fastapi
+uvicorn
+python-multipart  
